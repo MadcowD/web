@@ -1,0 +1,21 @@
+# Dependencies
+markdown: kramdown
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            wguss
+tagline:          'Artificially intelligent mathematician.'
+description:      'I do machine learning, mathematics, and <a href="https://thepelicants.bandcamp.com/">music</a>.'
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+
+# Custom vars
+version:          2.1.0
+
+github:       
+  repo:           https://github.com/madcowd
