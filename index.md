@@ -11,18 +11,18 @@ I am a computer scientist and mathematician from Salt Lake City, Utah. I current
 
 My goal is to understand human intelligence by creating artificial intelligence.
 
-## Recent Posts
+## Recent Posts 
 
 ## Selected Projects
 
 ## Papers, Presentations, Posters
 
-- [Deep Function Machines: Generalized Neural Networks for Topological Layer Expression](dev/dfm). William H. Guss. COLT 2017 (Submitting). [[arXiv](https://arxiv.org/abs/1612.04799)] 
+- [Deep Function Machines: Generalized Neural Networks for Topological Layer Expression](dev/dfm). **William H. Guss**. COLT 2017 (Submitting). [[arXiv](https://arxiv.org/abs/1612.04799)] 
 
-- [Universal Approximation of Nonlinear Operators on Banach Space](dev/operatorapprox), William H. Guss. Machine Learning at Berkeley Research Symposium 2016.
+- [Universal Approximation of Nonlinear Operators on Banach Space](dev/operatorapprox). **William H. Guss**. Machine Learning at Berkeley Research Symposium 2016. [[pdf](public/pdf/operator_approx.pdf)]
 
--  [Backpropagation-Free Parallel Deep Reinforcement Learning](/dev/nobackprop), William H. Guss. James Bartlett, Noah Golmant, Phillip Kuznetsov, Max Johansen. NIPS 2017 (WIP). 
+-  [Backpropagation-Free Parallel Deep Reinforcement Learning](/dev/nobackprop). **William H. Guss**. James Bartlett, Noah Golmant, Phillip Kuznetsov, Max Johansen. NIPS 2017 (WIP). [[pdf](public/pdf/nobackprop.pdf)]
 
-- [Parameter Reduction using Operator Neural Networks](http://wguss.ml/public/pdf/param_reduc.pdf). William H. Guss. Microsoft Research Symposium 2016.
+- [Parameter Reduction using Operator Neural Networks](public/pdf/param_reduc.pdf). **William H. Guss**. Microsoft Research Symposium 2016.
 
-- Functional Neural Networks Evaluated by Weierstrass Polynomials. William H. Guss, Phillip Kuznetsov, Patrick Chen. Intel ISEF 2015. Pittsburgh, Pennsylvania
+- Functional Neural Networks Evaluated by Weierstrass Polynomials. **William H. Guss**, Phillip Kuznetsov, Patrick Chen. Intel ISEF 2015. Pittsburgh, Pennsylvania. [[AAAI' Honorable Mention](https://www.societyforscience.org/content/press-room/intel-isef-2015-special-awards-ceremony)]
