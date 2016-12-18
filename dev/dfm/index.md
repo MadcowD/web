@@ -15,7 +15,11 @@ layer types with topological considerations in mind.
 
 
 ## Related Posts
+
+
 ## Papers, Presentations, Posters
+
+
 - Deep Function Machines: Generalized Neural Networks for Topological Layer Expression. **William H. Guss**. COLT 2017 (Submitting). [[arXiv](https://arxiv.org/abs/1612.04799)]  
 
 - Universal Approximation of Nonlinear Operators on Banach Space. **William H. Guss**. Machine Learning at Berkeley Research Symposium 2016.  [[pdf](/public/pdf/operator_approx.pdf)]
