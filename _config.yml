@@ -10,8 +10,8 @@ description:      'I do machine learning, mathematics, and <a href="https://thep
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'William Guss'
+  url:            http://wguss.ml
 
 
 # Custom vars
@@ -19,3 +19,9 @@ version:          2.1.0
 
 github:       
   repo:           https://github.com/madcowd
+
+gems:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
