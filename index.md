@@ -12,9 +12,15 @@ I am a computer scientist and mathematician from Salt Lake City, Utah. I current
 My goal is to understand human intelligence by creating artificial intelligence.
 
 
-## Recent Posts 
+## Recent Posts [[blog](/blog)]
+{% for post in site.posts limit: 5 %}
+{% unless post.categories contains 'unlisted' %}
+- [{{ post.title }}]({{ post.url }}). {{ post.date | date_to_string }}
+{% endunless %}
+{% endfor %}
 
-## Selected Projects
+
+## Selected Projects [[projects](/dev)]
 
 ## Papers, Presentations, Posters
 
