@@ -22,6 +22,3 @@ github:
 
 gems:
   - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
