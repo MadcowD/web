@@ -7,7 +7,7 @@ permalink:        pretty
 title:            wguss
 tagline:          'Artificially intelligent mathematician.'
 description:      'I do machine learning, mathematics, and <a href="https://thepelicants.bandcamp.com/">music</a>.'
-baseurl:          "/"
+baseurl:          http://wguss.ml/
 
 author:
   name:           'William Guss'

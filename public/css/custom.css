@@ -14,10 +14,15 @@
 }
 
 .paper {
-  padding-top:    4rem;
+  padding-top:    3rem;
   padding-bottom: 4rem;
+  padding-left: 2em;
+  padding-right: 2em;
 }
-
+  .paper-content{
+		margin-left: auto;
+		margin-right: auto;
+	}
 
 @media (min-width: 48em) {
   .paper {
@@ -25,6 +30,10 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .paper-content{
+		width: 32rem;
+	}
+
 }
 
 @media (min-width: 64em) {
@@ -33,6 +42,10 @@
     margin-left: auto;
     margin-right: auto;
   }
+  .paper-content{
+	width: 42rem;
+}
+
 }
 
 .title_information {
@@ -55,7 +68,6 @@
 }
 
 .visual_abstract{
-	padding-top: 1em;
 	margin-left: auto;
 	margin-right:auto;
 	width:100%;
@@ -78,11 +90,6 @@
 	text-align: center
 }
 
-.paper-content{
-	width: 42rem;
-	margin-left: auto;
-	margin-right: auto;
-}
 
 /* courtecy if Ohukkuo Usika */
 
@@ -121,4 +128,5 @@
 	width:35em;
 	margin-left:auto;
 	margin-right: auto;
+
 }
