@@ -11,7 +11,7 @@ baseurl:          http://wguss.ml
 
 author:
   name:           'William Guss'
-  url:            http://wguss.ml
+  url:            "http://wguss.ml/"
 
 
 # Custom vars
