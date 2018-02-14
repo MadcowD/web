@@ -32,7 +32,26 @@
 	text-align: center;
 }
 
-
+@media (max-width: 765px) {
+	.video_abstract{
+		visibility: hidden;
+		display: none;
+	}
+	.image_abstract{
+	visibility: visible;
+	display: inline;
+}
+}
+@media (min-width: 766px) {
+	.video_abstract{
+	visibility: visible;
+	display: inline;
+	}
+	.image_abstract{
+		visibility: hidden;
+		display: none;
+}
+}
 @media (min-width: 48em) {
 
 .paper-title{
@@ -95,7 +114,6 @@
 }
 
 .paper h2{
-	padding-top: 1em;
   	font-size: 28pt;
 	text-align: center
 }

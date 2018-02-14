@@ -30,10 +30,11 @@
 
 				{{% if page.video_abstract %}}
 				<div>
-					<video class="visual_abstract" autoplay loop muted playsinline>
-						<img class="visual_abstract" src="/public/algtop.png" />
-						<source src="/public/video.webm" type="video/webm" onerror="fallback(parentNode)">
+					<video class="visual_abstract video_abstract" autoplay loop muted playsinline>
+						<source class=" video_abstract" src="/public/video.webm" type="video/webm" onerror="fallback(parentNode)">
 					</video>
+
+						<img class="visual_abstract image_abstract" src="/public/algtop.png" />
 				</div>
 				
 				{{% endif %}}
