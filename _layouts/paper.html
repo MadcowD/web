@@ -4,10 +4,37 @@
   {% include head.html %}
 
   <body>
-      <div class="paper">
-		<h1 class="paper-title">{{ page.title }}</h1>
-		<span></span> 
-    </div>
+    <div class="paper-container">
+	      <div class="paper">
+			<h1 class="paper-title">{{ page.title }}</h1>
+			<div class="title_information">
+				{% for id in page.authors %}
+					<span class="author"> <a  href={{ id[1] }}> {{ id[0] }}</a><sup>{{ id[2] }}</sup> </span>
+
+				{% endfor %}
+			</div> 
+
+			<div class="title_information">
+				{% for inst in page.institutions %}
+				{{ inst }}
+				{% endfor %}
+			</div> 
+
+			<div class="paper-content">
+				{{% if page.visual_abstract %}}
+					<div>
+						<img class="visual_abstract" src={{ page.visual_abstract}} />
+					</div>
+				{{% endif %}}
+
+				<div class="abstract">
+					<h2 class="abstract-title"> Abstract</h2>
+					{{ page.abstract }}
+				</div>
+				{{ content }}
+		  </div>
+		</div>
+	</div>
 
   </body>
 </html>

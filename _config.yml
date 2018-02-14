@@ -22,3 +22,14 @@ github:
 
 gems:
   - jekyll-redirect-from
+
+
+
+app:
+  authors:
+    wguss:
+      name: 'William Guss'
+      url: 'http://wguss.ml'
+    rsalkhu:
+      name: 'Ruslan Salakhutdinov'
+      url: 'http://www.cs.cmu.edu/~rsalakhu/'
