@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
 # William H. Guss 
 
-I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at Carnegie Mellon University under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large amount of my time is spent at [Infoplay AI](http://infoplay.ai), a cryptocurrency hedgefund I cofounded that uses AI to interact with financial markets. [[bio](/bio)]
+<img src="/public/home_banner.jpg" width="100%" />
+I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large amount of my time is spent as CTO at [Infoplay AI](http://infoplay.ai), a cryptocurrency hedgefund I cofounded that uses AI to interact with financial markets. [[bio](/bio)]
 
 My goal is to understand human intelligence by creating artificial intelligence.
 
@@ -27,7 +27,7 @@ My goal is to understand human intelligence by creating artificial intelligence.
 
 ## Papers, Presentations, Posters
 
-- [On Characterizing the Capacity of Neural Networks using Algebraic Topology](dev/nht). **William H. Guss**, Ruslan Salakhutdinov. ICML 2018 (Submitted). NIPS 2017, DLTP Workshop. [[poster](public/dltp2017.pdf)]
+- [On Characterizing the Capacity of Neural Networks using Algebraic Topology](/dev/nht/empirical). **William H. Guss**, Ruslan Salakhutdinov. ICML 2018 (Submitted). NIPS 2017, DLTP Workshop. [[arxiv](https://arxiv.org/abs/1802.04443)] [[poster](public/dltp2017.pdf)]
 
 - Eigen: A Step Towards Conversational AI. **William H. Guss**, James Bartlett, Phillip Kuznetsov, Piyush Patil. Alexa Prize Proceedings 2017. [[proceedings](https://developer.amazon.com/alexaprize/proceedings)]
 
