@@ -11,6 +11,12 @@ I am a computer scientist and mathematician from Salt Lake City, Utah. I'm curre
 
 My goal is to understand human intelligence by creating artificial intelligence.
 
+- [Neural Homology Theory](dev/nht)
+- [Deep Function Machines](dev/dfm)
+
+
+
+
 
 ## Recent Posts [[blog](/blog)]
 {% for post in site.posts limit: 5 %}
@@ -18,11 +24,6 @@ My goal is to understand human intelligence by creating artificial intelligence.
 - [{{ post.title }}]({{ post.url }}). {{ post.date | date_to_string }}
 {% endunless %}
 {% endfor %}
-
-
-## Selected Projects [[projects](/dev)]
-- [Neural Homology Theory](dev/nht)
-- [Deep Function Machines](dev/dfm)
 
 ## Papers, Presentations, Posters
 
