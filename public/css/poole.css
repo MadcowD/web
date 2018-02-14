@@ -428,3 +428,15 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+
+.post-title{
+  font-size: 36pt;
+}
+
+
+.paper-title{
+  font-size: 28pt;
+  text-align: center;
+}
