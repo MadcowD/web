@@ -27,7 +27,7 @@ arxiv: "https://arxiv.org/abs/1802.04443"
 		padding-left: 3em;
 	"><span style="font-size:12pt">W.H. Guss, R. Salakhutdinov</span><br>
 	  <b><span style="font-size:12pt">{{ page.title }}</span></b><br>
-	  <span style="font-size:12pt">Submitted ICML, 2017. (hosted on <a href="https://arxiv.org/abs/1802.04443">arXiv</a>)</span>
+	  <span style="font-size:12pt">Preprint 2018. (hosted on <a href="https://arxiv.org/abs/1802.04443">arXiv</a>)</span>
 	  <span style="font-size:4pt"><a href=""><br></a>
 	  </span>
 	  </td>
