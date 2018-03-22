@@ -36,6 +36,9 @@ arxiv: "https://arxiv.org/abs/1802.04443"
   </tbody>
 </table>
 
+## Microsoft Research Talk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDQ9J5E7Uqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## [Neural Homology Theory](/dev/nht)
 
 This work is a part of a broader research topic called Neural Homology Theory. In particular, the empricial characterization given suggests lower bounds on the capacity for neural networks to express complex *topologies.* Neural homology theory provides a theoretical framework for deriving these lower bounds using simple algebraic equations:
