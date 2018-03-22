@@ -8,6 +8,12 @@ abstract: The learnability of different neural architectures can be characterize
 arxiv: "https://arxiv.org/abs/1802.04443"
 ---
 
+## Talk
+
+<center>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/QDQ9J5E7Uqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</center>
+
 ## Paper
 
 <table class="paper-link" style="border-style: none;border-radius: none;">
@@ -36,8 +42,7 @@ arxiv: "https://arxiv.org/abs/1802.04443"
   </tbody>
 </table>
 
-## Microsoft Research Talk
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QDQ9J5E7Uqk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## [Neural Homology Theory](/dev/nht)
 
