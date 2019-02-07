@@ -11,5 +11,5 @@ Currently, I'm  a cofounder at an algorithmic cryptoptocurrency hedgefund, [Info
 
 
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999&chld=US|CO|CA|AE|IL|OM|GB|SE|ES|NL|LI|DE|FR|FI|AT" width="450" height="300" ><br/>visited 15 states (6.66%)<br/>Buy Douwe's <a href="https://www.amazon.com/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X">Machine Learning Book</a>
+<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999&chld=US|CO|CA|AE|IL|OM|GB|SE|ES|NL|LI|DE|FR|FI|AT" width="450" height="300" ><br/>visited 15 states (6.66%)<br/>
 
