@@ -13,3 +13,5 @@ Currently, I'm  a cofounder at an algorithmic cryptoptocurrency hedgefund, [Info
 
 <img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999&chld=US|CO|CA|AE|IL|OM|GB|SE|ES|NL|LI|DE|FR|FI|AT" width="450" height="300" ><br/>visited 15 states (6.66%)<br/>
 
+
+<img src="http://chart.apis.google.com/chart?cht=t&chtm=usa&chs=440x220&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999999999999&chld=WVWIWYWAUTTXTNPAOROKOHNCNYNMNJNVMTKSIDHIFLCTCACOAZIL" width="440" height="220" ><br/>visited 26 states (52%)<br/>
