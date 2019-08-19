@@ -25,18 +25,8 @@ My goal is to understand human intelligence by creating artificial intelligence.
 {% endunless %}
 {% endfor %}
 
-## Papers, Presentations, Posters
+## Papers, Presentations, Posters [[google scholar](https://scholar.google.com/citations?user=5bB_sFcAAAAJ&hl=en)]
 
-- [On Characterizing the Capacity of Neural Networks using Algebraic Topology](/dev/nht/empirical). **William H. Guss**, Ruslan Salakhutdinov. Preprint. NIPS 2017, DLTP Workshop. [[arxiv](https://arxiv.org/abs/1802.04443)]  [[poster](/public/pdf/dltp2017.pdf)]
-
-- [Towards Neural Homology Theory](/dev/nht). **William H. Guss**, Ruslan Salakhutdinov. Talk, Microsoft Research, 2018. [[slides](/public/pdf/towards_neural_homology_theory.pdf)] 
-
-- Eigen: A Step Towards Conversational AI. **William H. Guss**, James Bartlett, Phillip Kuznetsov, Piyush Patil. Alexa Prize Proceedings 2017. [[proceedings](https://developer.amazon.com/alexaprize/proceedings)]
-
-- [Deep Function Machines: Generalized Neural Networks for Topological Layer Expression](dev/dfm). **William H. Guss**. Preprint. [[arXiv](https://arxiv.org/abs/1612.04799)]  
-![Wave Layer](/public/movie_1.gif)
-
-- [Universal Approximation of Nonlinear Operators on Banach Space](dev/dfm). **William H. Guss**. Machine Learning at Berkeley Research Symposium 2016.  [[pdf](/public/pdf/operator_approx.pdf)]
 
 -  [Backpropagation-Free Parallel Deep Reinforcement Learning](/dev/openbrain). **William H. Guss**. James Bartlett, Noah Golmant, Phillip Kuznetsov, Max Johansen. Preprint (WIP). [[pdf](/public/pdf/nobackprop.pdf)]
 
