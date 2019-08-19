@@ -13,6 +13,7 @@ My goal is to understand human intelligence by creating artificial intelligence.
 
 - [Neural Homology Theory](dev/nht)
 - [Deep Function Machines](dev/dfm)
+- [MineRL: Towards Open-world AGI](http://minerl.io) 
 
 
 
