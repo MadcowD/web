@@ -26,7 +26,25 @@ My goal is to understand human intelligence by creating artificial intelligence.
 {% endfor %}
 
 ## Papers, Presentations, Posters [[google scholar](https://scholar.google.com/citations?user=5bB_sFcAAAAJ&hl=en)]
+- [MineRL: A large-scale dataset of Minecraft demonstrations](http://minerl.io/dataset).  **William H. Guss**, Brandon Houghton, Nicholay Topin, Phillip Wang, Cayden Codel, Manuela Veloso, Ruslan Salakhutdinov.  IJCAI, 2019. [[arXiv](https://arxiv.org/abs/1907.13440)]
 
+- [The MineRL competition on sample efficient reinforcement learning using
+human priors](http://minerl.io/competition). **William H. Guss**, Cayden Codel, Katja Hofmann, Brandon Houghton, Noboru Kuno, Stephanie Milani, Sharada Mohanty, Diego Perez Liebana, Ruslan Salakhutdinov, Nicholay Topin, Manuela Veloso, Phillip Wang. NeurIPS Competition Track, 2019. [[arXiv](https://arxiv.org/abs/1904.10079)]
+
+- [Towards a theory of neural topology: The
+homology of rectified units](/dev/nht). **William H. Guss and Ruslan Salakhutdinov.**  ICML 2018 GIML Workshlop. **Best
+Contribution Award**. [[extended abstract](http://gimli.cc/2018/public_abstracts/gimli2018_guss_salakhutdinov.pdf)] 
+
+- [On Characterizing the Capacity of Neural Networks using Algebraic Topology](/dev/nht/empirical). **William H. Guss**, Ruslan Salakhutdinov.  NIPS 2017, DLTP Workshop. [[arXiv](https://arxiv.org/abs/1802.04443)]  [[poster](/public/pdf/dltp2017.pdf)]
+
+- [Towards Neural Homology Theory](/dev/nht). **William H. Guss**, Ruslan Salakhutdinov. Talk, Microsoft Research, 2018. [[slides](/public/pdf/towards_neural_homology_theory.pdf)] 
+
+- Eigen: A Step Towards Conversational AI. **William H. Guss**, James Bartlett, Phillip Kuznetsov, Piyush Patil. Alexa Prize Proceedings 2017. [[proceedings](https://developer.amazon.com/alexaprize/proceedings)]
+
+- [Deep Function Machines: Generalized Neural Networks for Topological Layer Expression](dev/dfm). **William H. Guss**. Preprint. [[arXiv](https://arxiv.org/abs/1612.04799)]  
+![Wave Layer](https://github.com/MadcowD/madcowd.github.io/raw/master/public/movie_1.gif)
+
+- [Universal Approximation of Nonlinear Operators on Banach Space](dev/dfm). **William H. Guss**. Machine Learning at Berkeley Research Symposium 2016.  [[pdf](/public/pdf/operator_approx.pdf)]
 
 -  [Backpropagation-Free Parallel Deep Reinforcement Learning](/dev/openbrain). **William H. Guss**. James Bartlett, Noah Golmant, Phillip Kuznetsov, Max Johansen. Preprint (WIP). [[pdf](/public/pdf/nobackprop.pdf)]
 
