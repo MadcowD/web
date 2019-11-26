@@ -7,7 +7,7 @@ layout: default
 # William H. Guss 
 
 <img src="/public/home_banner.jpg" width="100%" />
-I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large amount of my time is spent as CTO at [Infoplay AI](http://infoplay.ai), a cryptocurrency hedgefund I cofounded that uses AI to interact with financial markets. [[bio](/bio)]
+I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large portion of my time is spent working on [MineRL](http://minerl.io), a project I co-founded at CMU, with the broad goal of developing general AI in Minecraft using massively large-scale human demonstration data.
 
 My goal is to understand human intelligence by creating artificial intelligence.
 
@@ -27,6 +27,8 @@ My goal is to understand human intelligence by creating artificial intelligence.
 {% endfor %}
 
 ## Papers, Presentations, Posters [[google scholar](https://scholar.google.com/citations?user=5bB_sFcAAAAJ&hl=en)]
+- [On Universal Approximation by Neural Networks with Uniform Guarantees on Approximation of Infinite Dimensional Maps](https://arxiv.org/abs/1910.01545) **William H. Guss**, Ruslan Salakhutdinov. Preprint. [[arXiv](https://arxiv.org/abs/1910.01545)]
+
 - [MineRL: A large-scale dataset of Minecraft demonstrations](http://minerl.io/dataset).  **William H. Guss**, Brandon Houghton, Nicholay Topin, Phillip Wang, Cayden Codel, Manuela Veloso, Ruslan Salakhutdinov.  IJCAI, 2019. [[arXiv](https://arxiv.org/abs/1907.13440)]
 
 - [The MineRL competition on sample efficient reinforcement learning using
