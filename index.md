@@ -7,7 +7,7 @@ layout: default
 # William H. Guss 
 
 <img src="/public/home_banner.jpg" width="100%" />
-I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large portion of my time is spent working on [MineRL](http://minerl.io), a project I co-founded at CMU, with the broad goal of developing general AI in Minecraft using massively large-scale human demonstration data.
+I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large portion of my time is spent working on [MineRL](http://minerl.io), a project I co-founded at CMU, with the broad goal of developing general AI in Minecraft using human priors.
 
 My goal is to understand human intelligence by creating artificial intelligence.
 
