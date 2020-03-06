@@ -9,6 +9,11 @@ Notably, I cofounded [Machine Learning at Berkeley](http://ml.berkeley.edu) whic
 
 Currently, I'm  a cofounder at an algorithmic cryptoptocurrency hedgefund, [Infoplay AI](infoplay.com) in addition to my research in deep learning theory and deep reinforcement learning advised by Professor [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/).
 
+### `extra_data`
+#### A live chart of the languages I use!
+<figure><embed src="https://wakatime.com/share/@5081f5ad-8d32-4977-b9c4-0e581c36e1cb/4515eb49-df33-4df5-a984-92a0798113d6.svg"></embed></figure>
+
+#### Where I've been!
 <img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:9999999999999999&chld=US|CO|CA|AE|IL|OM|GB|SE|ES|NL|LI|DE|FR|FI|AT|IN" width="450" height="300" ><br/>visited 16 countries (7.11%)
 
 <img src="http://chart.apis.google.com/chart?cht=t&chtm=usa&chs=440x220&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999999999999&chld=WVWIWYWAUTTXTNPAOROKOHNCNYNMNJNVMTKSIDHIFLCTCACOAZIL" width="440" height="220" ><br/>visited 26 states (52%)<br/>
