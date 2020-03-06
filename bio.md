@@ -11,7 +11,10 @@ Currently, I'm  a cofounder at an algorithmic cryptoptocurrency hedgefund, [Info
 
 ### `extra_data`
 #### A live chart of the languages I use!
-<figure><embed src="https://wakatime.com/share/@5081f5ad-8d32-4977-b9c4-0e581c36e1cb/4515eb49-df33-4df5-a984-92a0798113d6.svg"></embed></figure>
+<figure>
+  <embed src="https://wakatime.com/share/@5081f5ad-8d32-4977-b9c4-0e581c36e1cb/4515eb49-df33-4df5-a984-92a0798113d6.svg">
+  </embed>
+ </figure>
 
 #### Where I've been!
 <img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:9999999999999999&chld=US|CO|CA|AE|IL|OM|GB|SE|ES|NL|LI|DE|FR|FI|AT|IN" width="450" height="300" ><br/>visited 16 countries (7.11%)
