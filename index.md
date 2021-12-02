@@ -7,16 +7,14 @@ layout: default
 # William H. Guss 
 
 <img src="/public/home_banner.jpg" width="100%" />
-I am a computer scientist and mathematician from Salt Lake City, Utah. I'm currently doing my PhD in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). A large portion of my time is spent working on [MineRL](http://minerl.io), a project I co-founded at CMU, with the broad goal of developing general AI in Minecraft using human priors.
+I am a computer scientist and mathematician from Salt Lake City, Utah. My doctoral research was in *deep learning theory* and *deep reinforcement learning* at [Carnegie Mellon University](http://ml.cmu.edu) under [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/). During my time at Carnegie Mellon, I founded the [MineRL](http://minerl.io) project with the broad goal of developing general AI in Minecraft using human priors. MineRL was acquired by OpenAI in 2020, where I served as a research scientist, [codeveloping](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5bB_sFcAAAAJ&citation_for_view=5bB_sFcAAAAJ:ULOm3_A8WrAC) [Github Copilot](https://copilot.github.com/) and [Codex](https://openai.com/blog/openai-codex/) in addition to developing algorithsm for imitation learning and reinforcement learning from human priors. Currently I spend most of my time running [lydian.ai], a machine learning and artificial intelligence consulting firm and research lab.
 
 My goal is to understand human intelligence by creating artificial intelligence.
 
 - [Neural Homology Theory](dev/nht)
 - [Deep Function Machines](dev/dfm)
 - [MineRL: Towards Open-world AGI](http://minerl.io) 
-
-
-
+- [lydian.ai](https://lydian.ai)
 
 
 ## Recent Posts [[blog](/blog)]
